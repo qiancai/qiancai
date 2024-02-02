@@ -13,7 +13,6 @@
 </p>
 
 <p>
-  <img src="https://api.vaunt.dev/v1/github/entities/ran-huang/contributions?format=svg" height="150" />
   <img src="https://api.vaunt.dev/v1/github/entities/qiancai/achievements?format=svg&limit=3" width="350" />
 </p>
 
