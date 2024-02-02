@@ -10,11 +10,9 @@
     <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/qiancai/contributions?format=svg" width="350" title="My public contributions"/>
     </a>
+    <img src="https://api.vaunt.dev/v1/github/entities/qiancai/achievements?format=svg&limit=3" width="350" />
 </p>
 
-<p>
-  <img src="https://api.vaunt.dev/v1/github/entities/qiancai/achievements?format=svg&limit=3" width="350" />
-</p>
 
 <!--
 **qiancai/qiancai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
