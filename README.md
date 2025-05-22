@@ -13,8 +13,9 @@
 [![GitHub streak stats](https://streak-stats.demolab.com/?user=qiancai&starting_year=2021&theme=tokyonight&card_width=500)](https://git.io/streak-stats)
 -->
 
+<!--
 <img src="https://api.vaunt.dev/v1/github/entities/qiancai/achievements?format=svg&limit=3" width="500" />
-
+-->
 
 
 <!--
